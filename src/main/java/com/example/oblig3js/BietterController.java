@@ -24,4 +24,6 @@ public class BietterController {
     @GetMapping("/slettAlle")
     public void slettAlle(){ rep.deleteAll();}
 
+
+
 }

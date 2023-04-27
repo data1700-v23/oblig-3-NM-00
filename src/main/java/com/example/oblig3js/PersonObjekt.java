@@ -24,7 +24,7 @@ public class PersonObjekt {
     private String email;
 
 
-    public PersonObjekt(String film, int antall, String fornavn, String etternavn, int telefonnr, String email){
+    public PersonObjekt(String film, int antall, String fornavn, String etternavn, int telefonnr, String email, int id){
         this.film = film;
         this.antall = antall;
         this.fornavn = fornavn;
